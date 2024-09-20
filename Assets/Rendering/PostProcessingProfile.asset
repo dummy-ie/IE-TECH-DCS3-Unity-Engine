@@ -96,7 +96,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.4
+    m_Value: 0.45
   smoothness:
     m_OverrideState: 1
     m_Value: 0.2
@@ -117,11 +117,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   components:
   - {fileID: -6762570231279311477}
-  - {fileID: -5759657298589282633}
+  - {fileID: 2950893884365311496}
   - {fileID: 1801531139289746853}
   - {fileID: 7827985127269028407}
-  - {fileID: 2950893884365311496}
   - {fileID: -6721252517842700711}
+  - {fileID: -5759657298589282633}
 --- !u!114 &1801531139289746853
 MonoBehaviour:
   m_ObjectHideFlags: 3
