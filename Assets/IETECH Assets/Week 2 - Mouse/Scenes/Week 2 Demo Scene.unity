@@ -557,7 +557,7 @@ Transform:
   m_GameObject: {fileID: 725067871}
   serializedVersion: 2
   m_LocalRotation: {x: 0.71589875, y: -0.010299314, z: -0.0037937034, w: 0.69811785}
-  m_LocalPosition: {x: -13.651, y: 6.609, z: -7.883}
+  m_LocalPosition: {x: -13.14, y: 6.6, z: -7.88}
   m_LocalScale: {x: 100, y: 99.99999, z: 100.00001}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1037,6 +1037,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Candle
       objectReference: {fileID: 0}
+    - target: {fileID: 4614270752669481402, guid: 5c5ec067351313b40b045df998dcff0d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d80def1d770fbc4dbd0eb3665922840, type: 2}
     - target: {fileID: 5163438502613370902, guid: 5c5ec067351313b40b045df998dcff0d,
         type: 3}
       propertyPath: m_Type
