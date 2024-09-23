@@ -724,7 +724,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3a770b6bf121d1143ba0990c2ada54c9,
         type: 3}
       propertyPath: m_Name
-      value: Skull_IETECH
+      value: Skull
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -807,7 +807,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 362e97491face014b91ee258b85cf939,
         type: 3}
       propertyPath: m_Name
-      value: mug
+      value: Mug
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -925,7 +925,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a3680fa0eb89dbe45b69373009212eb2,
         type: 3}
       propertyPath: m_Name
-      value: crate
+      value: Crate
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -1035,7 +1035,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5c5ec067351313b40b045df998dcff0d,
         type: 3}
       propertyPath: m_Name
-      value: candle
+      value: Candle
       objectReference: {fileID: 0}
     - target: {fileID: 5163438502613370902, guid: 5c5ec067351313b40b045df998dcff0d,
         type: 3}
@@ -1198,7 +1198,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 977b47ead09919a4ab71888a91f73096,
         type: 3}
       propertyPath: m_Name
-      value: Coin Bag 4
+      value: Coin Bag
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1213,6 +1213,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4336567961688662153, guid: ee8c4b94e2d3fd149a891ad3a06b0aa4,
+        type: 3}
+      propertyPath: m_Cameras.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7115703553589430970, guid: ee8c4b94e2d3fd149a891ad3a06b0aa4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1557,7 +1562,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b019fcad85dd11546a25457b0015df6e,
         type: 3}
       propertyPath: m_Name
-      value: Sword and shield
+      value: Sword and Shield
       objectReference: {fileID: 0}
     - target: {fileID: 7264861912074397051, guid: b019fcad85dd11546a25457b0015df6e,
         type: 3}
