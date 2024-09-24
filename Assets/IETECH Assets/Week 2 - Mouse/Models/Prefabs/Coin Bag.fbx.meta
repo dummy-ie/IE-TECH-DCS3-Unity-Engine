@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 977b47ead09919a4ab71888a91f73096
+guid: 9a09c65d73fef36459f18ba61f8596c0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Coin_BaseColor
-    second: {fileID: 2100000, guid: aa2a33e1e74b6c849a5b17009fffad12, type: 2}
+      name: Material
+    second: {fileID: 2100000, guid: a25ec923ddc881c409969d72a8e1decc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
