@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c8a7ffe2617891347a930e208c63c4f1
+guid: 9bdcf22d2299c554c884885d5db91b89
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: LIKE GRAH
-    second: {fileID: 2100000, guid: 8711afc1aed991f4687ef72e553a26ef, type: 2}
+      name: Bar_BG
+    second: {fileID: 2100000, guid: 4773846d38b597746bfe141aaa736ca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tables_Bar
+    second: {fileID: 2100000, guid: 51bfca689138b0843924f7251b3b11b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door
+    second: {fileID: 2100000, guid: fd0925ee49bb4614ba866f87be33e429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stairs, frame
+    second: {fileID: 2100000, guid: dcd91c4854cf54947993be4198bb005b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
