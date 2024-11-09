@@ -38,7 +38,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - HLOD
   m_SortingLayers:
   - name: Background
     uniqueID: 788040023
