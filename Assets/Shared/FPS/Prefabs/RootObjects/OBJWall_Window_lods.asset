@@ -31,13 +31,13 @@ MonoBehaviour:
   lod5: []
   lod6: []
   lod7: []
---- !u!43 &1565452692104156111
+--- !u!43 &5853216415530344111
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Wall_Window LOD2
+  m_Name: Wall_Window LOD1
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -196,13 +196,13 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!43 &3007920828313712264
+--- !u!43 &6448050297406256397
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Wall_Window LOD1
+  m_Name: Wall_Window LOD2
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2

@@ -1,12 +1,12 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!43 &-5042146617026158788
+--- !u!43 &-6551172016288134394
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: default LOD2
+  m_Name: default LOD1
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -165,13 +165,13 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!43 &-2483090624588137373
+--- !u!43 &-176586905617957152
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: default LOD1
+  m_Name: default LOD2
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
