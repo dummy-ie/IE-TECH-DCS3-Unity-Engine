@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Shared/FPS/Scenes/MainScene.unity
     guid: d794a2ef8ba31d847ad3c19d03e2ddb9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/Week 8/Scenes/Week 8 Layout.unity
     guid: e808b5cd1e445a04293b7e5de11663dc
   - enabled: 0
@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Projects/Week 9/Week 9.unity
     guid: b1512cbccad73b14bb2b5c1377b617a0
+  - enabled: 1
+    path: Assets/Projects/Week 10/Scenes/Week 10.unity
+    guid: d099662a2974be5469dad790de04ce1d
   m_configObjects: {}
