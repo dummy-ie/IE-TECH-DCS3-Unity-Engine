@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.25
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 984039097}
-  m_IndirectSpecularColor: {r: 0.0051210877, g: 0.004909496, b: 0.004908573, a: 0.25}
+  m_IndirectSpecularColor: {r: 0.0051208413, g: 0.004909262, b: 0.00490844, a: 0.25}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1187,6 +1187,94 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 577007584}
   m_Mesh: {fileID: 920479695903943639, guid: b84f180f75483fe438973865de83eeae, type: 3}
+--- !u!1001 &648752885
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1580.802
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 95.19428
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1956.213
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98665184
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.16284385
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -18.744
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 85778106fd1ae1343b90a8425b6e2732,
+        type: 3}
+      propertyPath: m_Name
+      value: 11_Skully_LOD_1.0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 85778106fd1ae1343b90a8425b6e2732, type: 3}
 --- !u!1 &672540953
 GameObject:
   m_ObjectHideFlags: 0
@@ -2213,6 +2301,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 11_Arsenal_LOD_1.0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 36d2a2f2bfff7d241b20190aa30b32a1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4133,6 +4226,7 @@ SceneRoots:
   - {fileID: 1687079004}
   - {fileID: 1980678480}
   - {fileID: 1838959852}
+  - {fileID: 648752885}
   - {fileID: 1284439190}
   - {fileID: 1882998216}
   - {fileID: 381790486}
