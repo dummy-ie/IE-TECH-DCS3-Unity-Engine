@@ -4,8 +4,8 @@ public class BackgroundMusicVolume : MonoBehaviour
 {
     public Transform cameraTransform; 
     public AudioSource audioSource; 
-    public float maxDistance = 100f; 
-    public float minDistance = 50f; 
+    public float maxDistance; 
+    public float minDistance; 
 
     private void Update()
     {
@@ -19,9 +19,10 @@ public class BackgroundMusicVolume : MonoBehaviour
 
         float zDistance = Mathf.Abs(cameraTransform.position.z - transform.position.z);
 
-        float volume = Mathf.Clamp01(1 - (zDistance - minDistance) / (maxDistance - minDistance));
+        Debug.Log(zDistance);
 
-        // Set the audio volume
+        float volume = Mathf.Clamp(0.7f - (zDistance - minDistance) / (maxDistance - minDistance) * 0.7f, 0f, 0.7f);
+
         audioSource.volume = volume;
     }
 }
