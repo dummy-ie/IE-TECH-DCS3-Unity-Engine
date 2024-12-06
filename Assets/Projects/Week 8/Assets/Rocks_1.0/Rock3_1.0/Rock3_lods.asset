@@ -1,12 +1,12 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!43 &-7592791708497580548
+--- !u!43 &-1175871751935836767
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RiverRock_03 LOD2
+  m_Name: RiverRock_03 LOD1
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -186,23 +186,23 @@ MonoBehaviour:
     maxLODGenerated: 2
     initialLODMaxPolyCount: 500000
   lod0:
-  - {fileID: 0}
+  - {fileID: 5387544475106597514, guid: 71dd4f7c100744540bb145d4a3e396bf, type: 3}
   lod1:
-  - {fileID: 0}
+  - {fileID: 1271010744558642901, guid: 71dd4f7c100744540bb145d4a3e396bf, type: 3}
   lod2:
-  - {fileID: 0}
+  - {fileID: -3658351566673075836, guid: 71dd4f7c100744540bb145d4a3e396bf, type: 3}
   lod3: []
   lod4: []
   lod5: []
   lod6: []
   lod7: []
---- !u!43 &154477406502064982
+--- !u!43 &4142706512012582088
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RiverRock_03 LOD1
+  m_Name: RiverRock_03 LOD2
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2

@@ -3,7 +3,12 @@ guid: 71dd4f7c100744540bb145d4a3e396bf
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RiverRock_03
+    second: {fileID: 2100000, guid: 67b0baf12632cde40837d13367c73e38, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
