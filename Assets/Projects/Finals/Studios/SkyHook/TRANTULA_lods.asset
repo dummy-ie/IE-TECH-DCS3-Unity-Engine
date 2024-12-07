@@ -1,12 +1,12 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!43 &-3895004204130244714
+--- !u!43 &-6577632377998712499
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: trnt_eyes LOD2
+  m_Name: trnt_body LOD1
   serializedVersion: 11
   m_SubMeshes: []
   m_Shapes:
@@ -155,7 +155,7 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!43 &-1487079435859493214
+--- !u!43 &-4506971809315337665
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -310,13 +310,13 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!43 &-795781786609215456
+--- !u!43 &-1967423033292124858
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: trnt_body LOD1
+  m_Name: trnt_eyes LOD2
   serializedVersion: 11
   m_SubMeshes: []
   m_Shapes:
@@ -499,7 +499,7 @@ MonoBehaviour:
   lod5: []
   lod6: []
   lod7: []
---- !u!43 &4745137931518034951
+--- !u!43 &2518432912120216400
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
