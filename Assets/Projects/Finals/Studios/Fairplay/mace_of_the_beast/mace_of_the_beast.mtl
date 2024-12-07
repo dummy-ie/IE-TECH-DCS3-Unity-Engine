@@ -1,0 +1,49 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl motb_head1
+	 Ka 0 0 0
+	 Kd 0.752549 0.678039 0.633333
+	 Ks 0.0792157 0.0713726 0.0666667
+	 illum 2
+	 Ns 11.3137
+map_Kd bones1.jpg
+map_bump bones_bump.jpg
+bump bones_bump.jpg
+newmtl motb_eye
+	 Ka 0 0 0
+	 Kd 0.72549 0 0
+	 Ks 0.544118 0 0
+	 illum 2
+	 Ns 181.019
+map_Kd motb_eye.jpg
+newmtl motb_head2
+	 Ka 0 0 0
+	 Kd 0.752549 0.678039 0.633333
+	 Ks 0.0792157 0.0713726 0.0666667
+	 illum 2
+	 Ns 11.3137
+map_Kd bones2.jpg
+map_bump bones_bump.jpg
+bump bones_bump.jpg
+newmtl motb_wood
+	 Ka 0 0 0
+	 Kd 0.447059 0.305882 0.211765
+	 Ks 0.0894118 0.0611765 0.0423529
+	 illum 2
+	 Ns 9.18959
+map_Kd wood.jpg
+map_bump wood_bump.jpg
+bump wood_bump.jpg
+newmtl motb_horn
+	 Ka 0 0 0
+	 Kd 0.976471 0.905882 0.776471
+	 Ks 0.244118 0.226471 0.194118
+	 illum 2
+	 Ns 22.6274
+map_Kd horn.jpg
+map_bump horn_bump.jpg
+bump horn_bump.jpg

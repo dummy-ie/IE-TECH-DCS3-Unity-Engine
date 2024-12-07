@@ -1,0 +1,21 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl creature
+	 Ka 0 0 0
+	 Kd 0.0901961 0.0666667 0.0431373
+	 Ks 0.0541176 0.04 0.0258824
+	 illum 2
+	 Ns 45.2548
+newmtl creature_stone
+	 Ka 0 0 0
+	 Kd 0.0901961 0.0666667 0.0431373
+	 Ks 0.0541176 0.04 0.0258824
+	 illum 2
+	 Ns 45.2548
+map_Kd stone_b.jpg
+map_bump stone_b.jpg
+bump stone_b.jpg

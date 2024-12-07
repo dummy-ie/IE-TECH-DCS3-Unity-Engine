@@ -1,0 +1,103 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl wood
+	 Ka 0 0 0
+	 Kd 0.537255 0.32549 0.113725
+	 Ks 0.0805882 0.0488235 0.0170588
+	 illum 2
+	 Ns 11.3137
+map_Kd wood.jpg
+map_bump wood_b.jpg
+bump wood_b.jpg
+newmtl wall1
+	 Ka 0 0 0
+	 Kd 0.870588 0.811765 0.752941
+	 Ks 0.130588 0.121765 0.112941
+	 illum 2
+	 Ns 11.3137
+map_Kd wall01.jpg
+map_bump wall01_b.jpg
+bump wall01_b.jpg
+newmtl wall
+	 Ka 0 0 0
+	 Kd 0.870588 0.811765 0.752941
+	 Ks 0.130588 0.121765 0.112941
+	 illum 2
+	 Ns 11.3137
+map_Kd wall01.jpg
+map_bump wall01_b.jpg
+bump wall01_b.jpg
+newmtl wall2
+	 Ka 0 0 0
+	 Kd 0.870588 0.811765 0.752941
+	 Ks 0.130588 0.121765 0.112941
+	 illum 2
+	 Ns 11.3137
+map_Kd wall01.jpg
+map_bump wall01_b.jpg
+bump wall01_b.jpg
+newmtl t_wall
+	 Ka 0 0 0
+	 Kd 0.870588 0.811765 0.752941
+	 Ks 0.130588 0.121765 0.112941
+	 illum 2
+	 Ns 11.3137
+map_Kd wall01.jpg
+map_bump wall01_b.jpg
+bump wall01_b.jpg
+newmtl t_walltop
+	 Ka 0 0 0
+	 Kd 0.870588 0.811765 0.752941
+	 Ks 0.130588 0.121765 0.112941
+	 illum 2
+	 Ns 11.3137
+map_Kd wall01.jpg
+map_bump wall01_b.jpg
+bump wall01_b.jpg
+newmtl t_roof
+	 Ka 0 0 0
+	 Kd 0.333333 0.74902 0.709804
+	 Ks 0.05 0.112353 0.106471
+	 illum 2
+	 Ns 11.3137
+map_Kd tiles.jpg
+newmtl window
+	 Ka 0 0 0
+	 Kd 1 0.760784 0.207843
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd win.jpg
+map_bump win_s.jpg
+bump win_s.jpg
+map_kS win_s.jpg
+newmtl window_m
+	 Ka 0 0 0
+	 Kd 0.219608 0.2 0.196078
+	 Ks 0.0988235 0.09 0.0882353
+	 illum 2
+	 Ns 11.3137
+newmtl metal
+	 Ka 0 0 0
+	 Kd 0.219608 0.2 0.196078
+	 Ks 0.0988235 0.09 0.0882353
+	 illum 2
+	 Ns 11.3137
+newmtl door
+	 Ka 0 0 0
+	 Kd 0.784314 0.784314 0.784314
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd door.jpg
+newmtl wood_c
+	 Ka 0 0 0
+	 Kd 0.341176 0.278431 0.243137
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd woodpath.jpg

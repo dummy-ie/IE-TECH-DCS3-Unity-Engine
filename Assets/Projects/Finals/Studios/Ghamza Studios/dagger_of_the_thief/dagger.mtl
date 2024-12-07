@@ -1,0 +1,57 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl ring
+	 Ka 0 0 0
+	 Kd 0.968627 0.839216 0.658824
+	 Ks 0.532745 0.461569 0.362353
+	 illum 2
+	 Ns 22.6274
+newmtl metal
+	 Ka 0 0 0
+	 Kd 0.596078 0.137255 0.262745
+	 Ks 0.447059 0.102941 0.197059
+	 illum 2
+	 Ns 45.2548
+newmtl metal2
+	 Ka 0 0 0
+	 Kd 0.596078 0.137255 0.262745
+	 Ks 0.447059 0.102941 0.197059
+	 illum 2
+	 Ns 45.2548
+map_Kd blade3.jpg
+map_bump blade3.jpg
+bump blade3.jpg
+newmtl blade1
+	 Ka 0 0 0
+	 Kd 0.835294 0.866667 0.858824
+	 Ks 0.826941 0.858 0.850235
+	 illum 2
+	 Ns 45.2548
+newmtl blade2
+	 Ka 0 0 0
+	 Kd 0.835294 0.866667 0.858824
+	 Ks 0.826941 0.858 0.850235
+	 illum 2
+	 Ns 45.2548
+map_Kd blade.jpg
+map_bump blade.jpg
+bump blade.jpg
+newmtl metal1
+	 Ka 0 0 0
+	 Kd 0.596078 0.137255 0.262745
+	 Ks 0.447059 0.102941 0.197059
+	 illum 2
+	 Ns 45.2548
+map_Kd blade2.jpg
+map_bump blade2.jpg
+bump blade2.jpg
+newmtl redstn
+	 Ka 0 0 0
+	 Kd 0.8 0.176471 0.611765
+	 Ks 0.6 0.132353 0.458824
+	 illum 2
+	 Ns 8

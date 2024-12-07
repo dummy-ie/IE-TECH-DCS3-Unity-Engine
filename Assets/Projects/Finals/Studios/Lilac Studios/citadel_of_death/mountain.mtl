@@ -1,0 +1,15 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl grass
+	 Ka 0 0 0
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.0784314 0.0784314 0.0784314
+	 illum 2
+	 Ns 8
+map_Kd terrain1.jpg
+map_bump terrain_b.jpg
+bump terrain_b.jpg

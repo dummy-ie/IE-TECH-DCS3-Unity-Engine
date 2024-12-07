@@ -1,0 +1,23 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl steel
+	 Ka 0 0 0
+	 Kd 0.811765 0.811765 0.862745
+	 Ks 0.446471 0.446471 0.47451
+	 illum 2
+	 Ns 22.6274
+newmtl axeblade
+	 Ka 0 0 0
+	 Kd 0.811765 0.811765 0.862745
+	 Ks 0.446471 0.446471 0.47451
+	 illum 2
+	 Ns 22.6274
+map_Kd axeblade.jpg
+map_bump xblade_b.jpg
+bump xblade_b.jpg
+map_kS xblade_s.jpg
+map_Ns blade_br.jpg

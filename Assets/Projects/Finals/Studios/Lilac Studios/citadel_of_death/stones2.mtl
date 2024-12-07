@@ -1,0 +1,13 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl stone3
+	 Ka 0 0 0
+	 Kd 0.784314 0.784314 0.784314
+	 Ks 0.117647 0.117647 0.117647
+	 illum 2
+	 Ns 11.3137
+map_Kd stone.jpg
