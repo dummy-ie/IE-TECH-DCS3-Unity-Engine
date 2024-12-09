@@ -1204,6 +1204,120 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!1001 &746774709
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.75
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      propertyPath: m_Name
+      value: animTentacledMonster_AnimSet_3.0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 746774713}
+  m_SourcePrefab: {fileID: 100100000, guid: a8dcf5c01d07b33448ec8073464a3c5e, type: 3}
+--- !u!1 &746774710 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: a8dcf5c01d07b33448ec8073464a3c5e,
+    type: 3}
+  m_PrefabInstance: {fileID: 746774709}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &746774713
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 746774710}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1658e97d9269c2847a3664bc25ec3df1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &815273574
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1276,74 +1390,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 15938275}
   m_SourcePrefab: {fileID: 100100000, guid: 76cae7e649bb8dc4da5d7a0946cf4f93, type: 3}
---- !u!1001 &1184766576
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1492.7933
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 88.483185
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1544.0424
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: fca713c60f3ae8a45a5882041641a357,
-        type: 3}
-      propertyPath: m_Name
-      value: animTentacledMonster_Animset_2.0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: fca713c60f3ae8a45a5882041641a357, type: 3}
 --- !u!1001 &1528686952
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1431,7 +1477,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 20104391}
-  - {fileID: 1184766576}
   - {fileID: 258777994}
   - {fileID: 1528686952}
   - {fileID: 815273574}
+  - {fileID: 746774709}
